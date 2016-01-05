@@ -1,0 +1,9 @@
+{
+  "name": "angular",
+  "main": "",
+  "version": "0.0.0",
+  "repository": {
+    "type": "asset",
+    "url": "http://10.253.3.215/http-export/bower/angular-1.1.5.tar"
+  }
+}
